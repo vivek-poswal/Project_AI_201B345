@@ -50,7 +50,7 @@ public int sumOfScore(){
     return sum;
 }
 
-
+//Function to interpret the performance.
 public String getInterpretation(int [][]dataFrame,double slope){
    //provide interpretation based on your slope analysis
     // Your code here
