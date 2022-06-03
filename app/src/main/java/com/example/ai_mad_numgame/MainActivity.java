@@ -39,7 +39,7 @@ if (correctButton==3) {
 
 new match
 
-
+// To calculate total score.
 public int sumOfScore(){
     //Computing the sum of score array, which has the 1 or in each index,depending on correct or incorrect answers
     int sum=0;
